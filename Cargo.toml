@@ -1,0 +1,6 @@
+[package]
+name = "sus"
+version = "0.1.0"
+edition = "2021"
+description = "A declarative macro that wraps any input with an unsafe block."
+authors = ["mramirez <ramirezmike2@gmail.com>"]
